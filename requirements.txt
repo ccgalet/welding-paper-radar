@@ -1,3 +1,4 @@
 requests
 openai
 jinja2
+tqdm
